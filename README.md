@@ -1,6 +1,6 @@
 # pRCC_Project
 
-A pipeline for single-cell RNA sequencing (scRNA-seq) data analysis, from raw data processing to downstream analysis.
+A pipeline for Integrated Single-Cell and Spatial Transcriptomics Reveals Tertiary Lymphoid Structures in High-Grade Papillary Renal Cell Carcinoma with Inferior Vena Cava Tumor Thrombus data analysis, from raw data processing to downstream analysis.
 
 ## Structure
 
@@ -24,10 +24,3 @@ A pipeline for single-cell RNA sequencing (scRNA-seq) data analysis, from raw da
 - Monocle3
 - QuSAGE
 - clusterProfiler
-
-## Usage
-
-```R
-# Run the entire pipeline
-source("exec.R")
-```
